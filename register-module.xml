@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name= "test-registration-page" >
+    <test name="test page">
+        <classes>
+            <class name="com.test.tests.RegisterTest">
+            </class>
+        </classes>
+    </test>
+</suite>
+
+
+
